@@ -1,7 +1,7 @@
-import Footer from "./Component.jsx/Footer"
-import Header from "./Component.jsx/Header"
-import Hero from "./Component.jsx/Hero"
-import Navbar from "./Component.jsx/navbar"
+import Footer from "./Component/Footer"
+import Header from "./Component/Header"
+import Hero from "./Component/Hero"
+import Navbar from "./Component/Navbar"
 
 
 function App() {
